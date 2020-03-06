@@ -5,7 +5,7 @@
  */
 spl_autoload_register( function ( $called_class ) {
 
-    $project_name = 'HEF';
+    $project_name = 'COV';
     $prefix = "{$project_name}\\";
 
     $base_dir = __DIR__ . DIRECTORY_SEPARATOR . 'src\\';
