@@ -2,6 +2,8 @@
 
 namespace COV;
 
+use COV\model\Bundesland;
+use COV\model\Deutschland;
 use DOMDocument;
 use DOMNode;
 use DOMXPath;
@@ -9,27 +11,39 @@ use DOMXPath;
 class App
 {
 
-    public function __construct ()
-    {
+  private $data;
 
-        $url = 'https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html';
-        $data = file_get_contents( $url );
-        $dom = new DOMDocument( '1.0' , 'utf-8' );
-        $dom -> loadHTML( $data );
-        $domx = new DOMXPath( $dom );
-        $tables = $domx -> query( '//table/tbody/.' ) -> item( 0 );
+  public function __construct()
+  {
 
-        /**
-         * @var $node DOMNode
-         */
-        foreach ( $tables -> childNodes as $node ) {
-            $bundesland = $node -> childNodes -> item( 0 ) -> textContent;
-            $faelle = $node -> childNodes -> item( 1 ) -> textContent;
-            print_r( "{$bundesland} {$faelle}" );
-            print_r( PHP_EOL );
-        }
+    $data_dir = __DIR__ . '/../data/';
+    $url = 'https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html';
+    $data = file_get_contents($url);
+    $dom = new DOMDocument('1.0', 'utf-8');
+    $dom->loadHTML($data);
+    $domx = new DOMXPath($dom);
+    $tables = $domx->query('//table/tbody/.')->item(0);
 
+    $this->data = new Deutschland();
+
+    /**
+     * @var $node DOMNode
+     */
+    foreach ($tables->childNodes as $node) {
+      $bundesland = $node->childNodes->item(0)->textContent;
+      $faelle = $node->childNodes->item(1)->textContent;
+      $this->data->add(
+          (new Bundesland())
+              ->set_bundesland($bundesland)
+              ->set_faelle($faelle)
+      );
     }
+
+    $json = json_encode($this->data , JSON_UNESCAPED_UNICODE + JSON_PRETTY_PRINT );
+    $filename = md5( $json ).'.json';
+    file_put_contents($data_dir.$filename,$json);
+
+  }
 
 
 }
