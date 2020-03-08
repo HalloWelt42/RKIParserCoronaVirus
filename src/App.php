@@ -20,7 +20,7 @@ class App
     $url = 'https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html';
     $data = file_get_contents($url);
     $dom = new DOMDocument('1.0', 'utf-8');
-    $dom->loadHTML($data);
+    @$dom->loadHTML($data);
     $domx = new DOMXPath($dom);
     $tables = $domx->query('//table/tbody/.')->item(0);
 

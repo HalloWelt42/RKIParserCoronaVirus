@@ -1,0 +1,66 @@
+[
+    {
+        "Bundesland": "Baden-Württemberg",
+        "Fälle": "182"
+    },
+    {
+        "Bundesland": "Bayern",
+        "Fälle": "148"
+    },
+    {
+        "Bundesland": "Berlin",
+        "Fälle": "28"
+    },
+    {
+        "Bundesland": "Brandenburg",
+        "Fälle": "2"
+    },
+    {
+        "Bundesland": "Bremen",
+        "Fälle": "4"
+    },
+    {
+        "Bundesland": "Hamburg",
+        "Fälle": "13"
+    },
+    {
+        "Bundesland": "Hessen",
+        "Fälle": "17"
+    },
+    {
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Fälle": "7"
+    },
+    {
+        "Bundesland": "Niedersachsen",
+        "Fälle": "21"
+    },
+    {
+        "Bundesland": "Nordrhein-Westfalen",
+        "Fälle": "392"
+    },
+    {
+        "Bundesland": "Rheinland-Pfalz",
+        "Fälle": "15"
+    },
+    {
+        "Bundesland": "Saarland",
+        "Fälle": "4"
+    },
+    {
+        "Bundesland": "Sachsen",
+        "Fälle": "4"
+    },
+    {
+        "Bundesland": "Schleswig Holstein",
+        "Fälle": "8"
+    },
+    {
+        "Bundesland": "Thüringen",
+        "Fälle": "2"
+    },
+    {
+        "Bundesland": "Gesamt",
+        "Fälle": "847"
+    }
+]
