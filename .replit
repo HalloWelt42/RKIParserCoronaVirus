@@ -1,0 +1,2 @@
+language = "bash"
+run = "php src/public/index.php"
