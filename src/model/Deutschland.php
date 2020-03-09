@@ -5,6 +5,7 @@ namespace COV\model;
 
 
 use JsonSerializable;
+use stdClass;
 
 class Deutschland implements JsonSerializable
 {
@@ -26,6 +27,10 @@ class Deutschland implements JsonSerializable
    */
   public function jsonSerialize()
   {
-    return $this->bundeslaender;
+    $cls = new stdClass();
+    $cls -> Deutschland = $this -> bundeslaender;
+    $cls -> timestamp = time();
+    return $cls;
+
   }
 }

@@ -26,6 +26,7 @@ class App
 
     $this->data = new Deutschland();
 
+    $faelle = 0;
     /**
      * @var $node DOMNode
      */
@@ -39,9 +40,11 @@ class App
       );
     }
 
-    $json = json_encode($this->data , JSON_UNESCAPED_UNICODE + JSON_PRETTY_PRINT );
-    $filename = md5( $json ).'.json';
-    file_put_contents($data_dir.$filename,$json);
+    $json = json_encode($this->data, JSON_UNESCAPED_UNICODE + JSON_PRETTY_PRINT);
+    $filename = md5($faelle ) . '.json';
+    if (file_exists($filename ) === false) {
+      file_put_contents($data_dir . $filename, $json);
+    }
 
   }
 
