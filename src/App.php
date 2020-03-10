@@ -42,7 +42,7 @@ class App
 
     $json = json_encode($this->data, JSON_UNESCAPED_UNICODE + JSON_PRETTY_PRINT);
     $filename = md5($faelle ) . '.json';
-    if (file_exists($filename ) === false) {
+    if (file_exists($data_dir . $filename ) === false) {
       file_put_contents($data_dir . $filename, $json);
     }
 
