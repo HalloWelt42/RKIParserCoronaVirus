@@ -26,6 +26,16 @@ class Bundesland implements JsonSerializable
     return $this;
   }
 
+  public function set_tot( $anzahl ){
+    $this->properties['Todesfälle'] = $anzahl;
+    return $this;
+  }
+
+  public function set_hotspot( $anzahl ){
+    $this->properties['Besonders betroffenes Gebiet'] = $anzahl;
+    return $this;
+  }
+
   /**
    * @inheritDoc
    */

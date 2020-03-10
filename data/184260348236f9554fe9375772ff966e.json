@@ -2,68 +2,100 @@
     "Deutschland": [
         {
             "Bundesland": "Baden-Württemberg",
-            "Fälle": "204"
+            "Fälle": "204",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Bayern",
-            "Fälle": "256"
+            "Fälle": "256",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Berlin",
-            "Fälle": "48"
+            "Fälle": "48",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Brandenburg",
-            "Fälle": "6"
+            "Fälle": "6",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Bremen",
-            "Fälle": "4"
+            "Fälle": "4",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Hamburg",
-            "Fälle": "17"
+            "Fälle": "17",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Hessen",
-            "Fälle": "26"
+            "Fälle": "26",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Mecklenburg-Vorpommern",
-            "Fälle": "10"
+            "Fälle": "10",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Niedersachsen",
-            "Fälle": "38"
+            "Fälle": "38",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Nordrhein-Westfalen",
-            "Fälle": "484"
+            "Fälle": "484",
+            "Todesfälle": "2",
+            "Besonders betroffenes Gebiet": "Landkreis Heinsberg"
         },
         {
             "Bundesland": "Rheinland-Pfalz",
-            "Fälle": "17"
+            "Fälle": "17",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Saarland",
-            "Fälle": "6"
+            "Fälle": "6",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Sachsen",
-            "Fälle": "12"
+            "Fälle": "12",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Schleswig-Holstein",
-            "Fälle": "9"
+            "Fälle": "9",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Thüringen",
-            "Fälle": "2"
+            "Fälle": "2",
+            "Todesfälle": "0",
+            "Besonders betroffenes Gebiet": ""
         },
         {
             "Bundesland": "Gesamt",
-            "Fälle": "1139"
+            "Fälle": "1139",
+            "Todesfälle": "2",
+            "Besonders betroffenes Gebiet": ""
         }
     ],
-    "timestamp": 1583828739
+    "timestamp": 1583845530
 }
