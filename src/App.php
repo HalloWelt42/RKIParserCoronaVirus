@@ -38,15 +38,15 @@ class App
       $this->data->add(
           (new Bundesland())
               ->set_bundesland($bundesland)
-              ->set_faelle($faelle)
-              ->set_tot($tot)
+              ->set_bestaetigte_faelle($faelle)
+              ->set_elektronisch_uebermittelte_faelle($tot)
               ->set_hotspot($hotspot)
       );
     }
 
     $json = json_encode($this->data, JSON_UNESCAPED_UNICODE + JSON_PRETTY_PRINT);
-    #print_r( $json );
-    #exit;
+//    print_r( $json );
+//    exit;
     $filename = md5($faelle ) . '.json';
     if (file_exists($data_dir . $filename ) === false) {
       file_put_contents($data_dir . $filename, $json);
