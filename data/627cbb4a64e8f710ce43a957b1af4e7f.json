@@ -1,0 +1,91 @@
+{
+    "Deutschland": [
+        {
+            "Bundesland": "Baden-Württemberg",
+            "best. Fälle": "1.105 (3)",
+            "elektronisch übermittelte Fälle": "1.062 (3)"
+        },
+        {
+            "Bundesland": "Bayern",
+            "best. Fälle": "1.067 (5)",
+            "elektronisch übermittelte Fälle": "965 (4)"
+        },
+        {
+            "Bundesland": "Berlin",
+            "best. Fälle": "300",
+            "elektronisch übermittelte Fälle": "300"
+        },
+        {
+            "Bundesland": "Brandenburg",
+            "best. Fälle": "94",
+            "elektronisch übermittelte Fälle": "65"
+        },
+        {
+            "Bundesland": "Bremen",
+            "best. Fälle": "56",
+            "elektronisch übermittelte Fälle": "56"
+        },
+        {
+            "Bundesland": "Hamburg",
+            "best. Fälle": "260",
+            "elektronisch übermittelte Fälle": "255"
+        },
+        {
+            "Bundesland": "Hessen",
+            "best. Fälle": "342",
+            "elektronisch übermittelte Fälle": "241"
+        },
+        {
+            "Bundesland": "Mecklenburg-Vorpommern",
+            "best. Fälle": "51",
+            "elektronisch übermittelte Fälle": "36"
+        },
+        {
+            "Bundesland": "Niedersachsen",
+            "best. Fälle": "391",
+            "elektronisch übermittelte Fälle": "272"
+        },
+        {
+            "Bundesland": "Nordrhein-Westfalen",
+            "best. Fälle": "1.541 (5)",
+            "elektronisch übermittelte Fälle": "1.541 (5)",
+            "Besonders betroffenes Gebiet": "Landkreis Heinsberg"
+        },
+        {
+            "Bundesland": "Rheinland-Pfalz",
+            "best. Fälle": "325",
+            "elektronisch übermittelte Fälle": "325"
+        },
+        {
+            "Bundesland": "Saarland",
+            "best. Fälle": "85",
+            "elektronisch übermittelte Fälle": "32"
+        },
+        {
+            "Bundesland": "Sachsen",
+            "best. Fälle": "140",
+            "elektronisch übermittelte Fälle": "103"
+        },
+        {
+            "Bundesland": "Sachsen-Anhalt",
+            "best. Fälle": "77",
+            "elektronisch übermittelte Fälle": "40"
+        },
+        {
+            "Bundesland": "Schleswig-Holstein",
+            "best. Fälle": "123",
+            "elektronisch übermittelte Fälle": "104"
+        },
+        {
+            "Bundesland": "Thüringen",
+            "best. Fälle": "55",
+            "elektronisch übermittelte Fälle": "36"
+        },
+        {
+            "Bundesland": "Gesamt",
+            "best. Fälle": "6.012 (13)",
+            "elektronisch übermittelte Fälle": "5.433 (12)"
+        }
+    ],
+    "timestamp": 1584390790
+}
