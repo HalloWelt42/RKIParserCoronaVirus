@@ -31,24 +31,22 @@ class App
      * @var $node DOMNode
      */
     foreach ($tables->childNodes as $node) {
-      $bundesland = $node->childNodes->item(0)->textContent;
-      $faelle = $node->childNodes->item(1)->textContent;
-      $tot = $node->childNodes->item(2)->textContent;
-      $hotspot = $node->childNodes->item(3)->textContent;
       $this->data->add(
           (new Bundesland())
-              ->set_bundesland($bundesland)
-              ->set_bestaetigte_faelle($faelle)
-              ->set_elektronisch_uebermittelte_faelle($tot)
-              ->set_hotspot($hotspot)
+              ->set_bundesland($node->childNodes->item(0)->textContent)
+              ->set_faelle($node->childNodes->item(1)->textContent)
+              ->set_differenz($node->childNodes->item(2)->textContent)
+              ->set_pro_hundert($node->childNodes->item(3)->textContent)
+              ->set_tot($node->childNodes->item(4)->textContent)
+              ->set_hotspot($node->childNodes->item(5)->textContent)
       );
     }
 
     $json = json_encode($this->data, JSON_UNESCAPED_UNICODE + JSON_PRETTY_PRINT);
 //    print_r( $json );
 //    exit;
-    $filename = md5($faelle ) . '.json';
-    if (file_exists($data_dir . $filename ) === false) {
+    $filename = md5($faelle) . '.json';
+    if (file_exists($data_dir . $filename) === false) {
       file_put_contents($data_dir . $filename, $json);
     }
 
