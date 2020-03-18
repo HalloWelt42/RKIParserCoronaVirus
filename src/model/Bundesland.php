@@ -21,13 +21,24 @@ class Bundesland implements JsonSerializable
     return $this;
   }
 
-  public function set_bestaetigte_faelle($anzahl ){
-    $this->properties['best. Fälle'] = $anzahl;
+  public function set_faelle($anzahl ){
+    $this->properties['Fälle'] = $anzahl;
     return $this;
   }
 
-  public function set_elektronisch_uebermittelte_faelle($anzahl ){
-    $this->properties['elektronisch übermittelte Fälle'] = $anzahl;
+  public function set_pro_hundert($anzahl ){
+    $this->properties['pro 100T/Einw.'] = $anzahl;
+    return $this;
+  }
+
+  public function set_tot( $anzahl ){
+    $this->properties['Todesfälle'] = $anzahl;
+    return $this;
+  }
+
+
+  public function set_differenz($anzahl ){
+    $this->properties['Differnz zum Vortag'] = $anzahl;
     return $this;
   }
 
