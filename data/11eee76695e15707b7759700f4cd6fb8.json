@@ -1,0 +1,107 @@
+{
+    "Deutschland": [
+        {
+            "Bundesland": "Baden-Württemberg",
+            "best. Fälle": "1.609",
+            "elektronisch übermittelte Fälle": "+130",
+            "Besonders betroffenes Gebiet": "14,5"
+        },
+        {
+            "Bundesland": "Bayern",
+            "best. Fälle": "1.243",
+            "elektronisch übermittelte Fälle": "+134",
+            "Besonders betroffenes Gebiet": "9,5"
+        },
+        {
+            "Bundesland": "Berlin",
+            "best. Fälle": "391",
+            "elektronisch übermittelte Fälle": "+46",
+            "Besonders betroffenes Gebiet": "10,4"
+        },
+        {
+            "Bundesland": "Brandenburg",
+            "best. Fälle": "92",
+            "elektronisch übermittelte Fälle": "+19",
+            "Besonders betroffenes Gebiet": "3,7"
+        },
+        {
+            "Bundesland": "Bremen",
+            "best. Fälle": "69",
+            "elektronisch übermittelte Fälle": "+12",
+            "Besonders betroffenes Gebiet": "10,1"
+        },
+        {
+            "Bundesland": "Hamburg",
+            "best. Fälle": "358",
+            "elektronisch übermittelte Fälle": "+48",
+            "Besonders betroffenes Gebiet": "19,4"
+        },
+        {
+            "Bundesland": "Hessen",
+            "best. Fälle": "432",
+            "elektronisch übermittelte Fälle": "+59",
+            "Besonders betroffenes Gebiet": "6,9"
+        },
+        {
+            "Bundesland": "Mecklenburg-Vorpommern",
+            "best. Fälle": "56",
+            "elektronisch übermittelte Fälle": "+11",
+            "Besonders betroffenes Gebiet": "3,5"
+        },
+        {
+            "Bundesland": "Niedersachsen",
+            "best. Fälle": "478",
+            "elektronisch übermittelte Fälle": "+153",
+            "Besonders betroffenes Gebiet": "6,0"
+        },
+        {
+            "Bundesland": "Nordrhein-Westfalen",
+            "best. Fälle": "2.372",
+            "elektronisch übermittelte Fälle": "+267",
+            "Besonders betroffenes Gebiet": "13,2"
+        },
+        {
+            "Bundesland": "Rheinland-Pfalz",
+            "best. Fälle": "474",
+            "elektronisch übermittelte Fälle": "+32",
+            "Besonders betroffenes Gebiet": "11,6"
+        },
+        {
+            "Bundesland": "Saarland",
+            "best. Fälle": "88",
+            "elektronisch übermittelte Fälle": "+13",
+            "Besonders betroffenes Gebiet": "8,9"
+        },
+        {
+            "Bundesland": "Sachsen",
+            "best. Fälle": "198",
+            "elektronisch übermittelte Fälle": "+16",
+            "Besonders betroffenes Gebiet": "4,9"
+        },
+        {
+            "Bundesland": "Sachsen-Anhalt",
+            "best. Fälle": "105",
+            "elektronisch übermittelte Fälle": "+47",
+            "Besonders betroffenes Gebiet": "4,8"
+        },
+        {
+            "Bundesland": "Schleswig-Holstein",
+            "best. Fälle": "159",
+            "elektronisch übermittelte Fälle": "+32",
+            "Besonders betroffenes Gebiet": "5,5"
+        },
+        {
+            "Bundesland": "Thüringen",
+            "best. Fälle": "74",
+            "elektronisch übermittelte Fälle": "+23",
+            "Besonders betroffenes Gebiet": "3,5"
+        },
+        {
+            "Bundesland": "Gesamt",
+            "best. Fälle": "8.198",
+            "elektronisch übermittelte Fälle": "+1.042",
+            "Besonders betroffenes Gebiet": "9,9"
+        }
+    ],
+    "timestamp": 1584535324
+}
