@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/data/Coronavirus.current.v2.csv?{timestamp}",
+    "filename": "Coronavirus.current.v2.csv"
+  },
+  {
+    "url": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/data/Coronavirus.regio.v2.csv",
+    "filename": "Coronavirus.regio.v2.csv"
+  }
+]

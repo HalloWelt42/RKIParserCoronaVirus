@@ -1,6 +1,8 @@
 <?php
 
-use COV\App;
+use COV\BMPApp;
+use COV\RKIApp;
 
 require_once __DIR__ . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'loader.php';
-new App();
+new RKIApp();
+#new BMPApp();

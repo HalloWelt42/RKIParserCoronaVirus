@@ -8,7 +8,7 @@ use DOMDocument;
 use DOMNode;
 use DOMXPath;
 
-class App
+class RKIApp
 {
 
   private $data;
@@ -16,7 +16,7 @@ class App
   public function __construct()
   {
 
-    $data_dir = __DIR__ . '/../data/';
+    $data_dir = __DIR__ . '/../data/rki/';
     $url = 'https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html';
     $data = file_get_contents($url);
     $dom = new DOMDocument('1.0', 'utf-8');
@@ -31,10 +31,11 @@ class App
      * @var $node DOMNode
      */
     foreach ($tables->childNodes as $node) {
+      $faelle = $node->childNodes->item(1)->textContent;
       $this->data->add(
           (new Bundesland())
               ->set_bundesland($node->childNodes->item(0)->textContent)
-              ->set_faelle($node->childNodes->item(1)->textContent)
+              ->set_faelle($faelle)
               ->set_differenz($node->childNodes->item(2)->textContent)
               ->set_pro_hundert($node->childNodes->item(3)->textContent)
               ->set_tot($node->childNodes->item(4)->textContent)

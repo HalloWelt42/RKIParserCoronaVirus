@@ -1,0 +1,134 @@
+parent,label,date,updated,confirmed,recovered,deaths,lon,lat,source,source_url,scraper
+Berlin,Charlottenburg-Wilmersdorf,2020-03-18T20:00:00+01:00,1584558000000,81,6,0,13.270242,52.49832,LaGeSo Berlin,via E-Mail,regio
+Berlin,Friedrichshain-Kreuzberg,2020-03-18T20:00:00+01:00,1584558000000,60,0,0,13.443621,52.511565,LaGeSo Berlin,via E-Mail,regio
+Berlin,Lichtenberg,2020-03-18T20:00:00+01:00,1584558000000,21,0,0,13.4959,52.527931,LaGeSo Berlin,via E-Mail,regio
+Berlin,Marzahn-Hellersdorf,2020-03-18T20:00:00+01:00,1584558000000,19,0,0,13.574036,52.515826,LaGeSo Berlin,via E-Mail,regio
+Berlin,Mitte,2020-03-18T20:00:00+01:00,1584558000000,85,0,0,13.394087,52.520891,LaGeSo Berlin,via E-Mail,regio
+Berlin,Neukölln,2020-03-18T20:00:00+01:00,1584558000000,36,0,0,13.443664,52.440484,LaGeSo Berlin,via E-Mail,regio
+Berlin,Pankow,2020-03-18T20:00:00+01:00,1584558000000,59,0,0,13.434299,52.590515,LaGeSo Berlin,via E-Mail,regio
+Berlin,Reinickendorf,2020-03-18T20:00:00+01:00,1584558000000,28,0,0,13.284953,52.591439,LaGeSo Berlin,via E-Mail,regio
+Berlin,Spandau,2020-03-18T20:00:00+01:00,1584558000000,11,0,0,13.186056,52.544354,LaGeSo Berlin,via E-Mail,regio
+Berlin,Steglitz-Zehlendorf,2020-03-18T20:00:00+01:00,1584558000000,57,0,0,13.272296,52.436132,LaGeSo Berlin,via E-Mail,regio
+Berlin,Tempelhof-Schöneberg,2020-03-18T20:00:00+01:00,1584558000000,34,0,0,13.388943,52.456016,LaGeSo Berlin,via E-Mail,regio
+Berlin,Treptow-Köpenick,2020-03-18T20:00:00+01:00,1584558000000,28,0,0,13.624591,52.424291,LaGeSo Berlin,via E-Mail,regio
+Nordrhein-Westfalen,Aachen & Städteregion Aachen,2020-03-18T10:00:00+01:00,1584522000000,273,33,2,6.24194,50.75389,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Bielefeld,2020-03-18T10:00:00+01:00,1584522000000,49,0,0,8.577806,52.018202,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Bochum,2020-03-18T10:00:00+01:00,1584522000000,30,0,0,7.213937,51.474951,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Bonn,2020-03-18T10:00:00+01:00,1584522000000,69,0,0,7.114887,50.724104,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Borken (Kreis),2020-03-18T10:00:00+01:00,1584522000000,131,0,0,6.871077,51.849002,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Bottrop,2020-03-18T10:00:00+01:00,1584522000000,9,0,0,6.943227,51.52873,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Coesfeld (Kreis),2020-03-18T10:00:00+01:00,1584522000000,70,0,0,7.166349,51.941946,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Dortmund,2020-03-18T10:00:00+01:00,1584522000000,65,0,0,7.479247,51.507849,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Duisburg,2020-03-18T10:00:00+01:00,1584522000000,52,0,0,6.75966,51.47994,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Düren (Kreis),2020-03-18T10:00:00+01:00,1584522000000,57,0,0,6.48195,50.801834,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Düsseldorf,2020-03-18T10:00:00+01:00,1584522000000,97,0,1,6.801324,51.226297,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,2020-03-18T10:00:00+01:00,1584522000000,32,0,0,7.310078,51.366277,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Essen,2020-03-18T10:00:00+01:00,1584522000000,115,0,1,7.019603,51.468739,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Euskirchen (Kreis),2020-03-18T10:00:00+01:00,1584522000000,19,0,0,6.790875,50.655816,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Gelsenkirchen,2020-03-18T10:00:00+01:00,1584522000000,21,0,0,7.07669,51.547434,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Gütersloh (Kreis),2020-03-18T10:00:00+01:00,1584522000000,91,0,0,8.390601,51.903311,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Hagen,2020-03-18T10:00:00+01:00,1584522000000,11,0,0,7.487553,51.371236,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Hamm,2020-03-18T10:00:00+01:00,1584522000000,16,0,0,7.821892,51.674274,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Heinsberg (Kreis),2020-03-18T10:00:00+01:00,1584522000000,811,25,8,6.098857,51.06395,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Herford (Kreis),2020-03-18T10:00:00+01:00,1584522000000,52,0,0,8.667448,52.115529,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Herne,2020-03-18T10:00:00+01:00,1584522000000,7,0,0,7.20971,51.540584,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Hochsauerlandkreis,2020-03-18T10:00:00+01:00,1584522000000,80,0,0,8.301315,51.24509,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Höxter (Kreis),2020-03-18T10:00:00+01:00,1584522000000,7,0,0,9.380873,51.775929,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Kleve (Kreis),2020-03-18T10:00:00+01:00,1584522000000,66,0,0,6.126757,51.7794,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Köln,2020-03-18T10:00:00+01:00,1584522000000,430,9,1,6.934628,50.94718,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Krefeld,2020-03-18T10:00:00+01:00,1584522000000,53,0,0,6.585484,51.337869,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Leverkusen,2020-03-18T10:00:00+01:00,1584522000000,31,0,0,7.029976,51.048254,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Lippe (Kreis),2020-03-18T10:00:00+01:00,1584522000000,107,0,0,8.894953,51.962056,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Märkischer Kreis,2020-03-18T10:00:00+01:00,1584522000000,27,0,0,7.734746,51.285488,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Mettmann (Kreis),2020-03-18T10:00:00+01:00,1584522000000,63,0,0,6.970846,51.252811,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Minden-Lübbecke (Kreis),2020-03-18T10:00:00+01:00,1584522000000,97,0,0,8.592771,52.383867,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Mönchengladbach,2020-03-18T10:00:00+01:00,1584522000000,37,0,0,6.428687,51.1821,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Mülheim an der Ruhr,2020-03-18T10:00:00+01:00,1584522000000,14,0,0,6.894836,51.437117,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Münster,2020-03-18T10:00:00+01:00,1584522000000,114,0,0,7.624747,51.954044,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Oberbergischer Kreis,2020-03-18T10:00:00+01:00,1584522000000,50,0,0,7.579776,50.971448,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Oberhausen,2020-03-18T10:00:00+01:00,1584522000000,13,0,0,6.862345,51.498071,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Olpe (Kreis),2020-03-18T10:00:00+01:00,1584522000000,14,0,0,7.849124,51.026592,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Paderborn (Kreis),2020-03-18T10:00:00+01:00,1584522000000,56,0,0,8.740642,51.718539,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Recklinghausen (Kreis),2020-03-18T10:00:00+01:00,1584522000000,69,0,0,7.214087,51.586044,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Remscheid,2020-03-18T10:00:00+01:00,1584522000000,10,0,0,7.180644,51.180907,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Rhein-Erft-Kreis,2020-03-18T10:00:00+01:00,1584522000000,90,0,0,6.69704,50.926461,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,2020-03-18T10:00:00+01:00,1584522000000,60,0,0,7.181018,51.013579,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Rhein-Kreis Neuss,2020-03-18T10:00:00+01:00,1584522000000,50,0,0,6.645946,51.134897,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Rhein-Sieg-Kreis,2020-03-18T10:00:00+01:00,1584522000000,139,0,0,7.297208,50.789159,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Siegen-Wittgenstein (Kreis),2020-03-18T10:00:00+01:00,1584522000000,26,0,0,8.0748,50.892976,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Soest (Kreis),2020-03-18T10:00:00+01:00,1584522000000,39,0,0,8.113109,51.568226,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Solingen,2020-03-18T10:00:00+01:00,1584522000000,31,0,0,7.070708,51.176385,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Steinfurt (Kreis),2020-03-18T10:00:00+01:00,1584522000000,114,0,0,7.331065,52.144456,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Unna (Kreis),2020-03-18T10:00:00+01:00,1584522000000,25,0,0,7.685846,51.537065,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Viersen (Kreis),2020-03-18T10:00:00+01:00,1584522000000,43,0,0,6.396321,51.254239,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Warendorf (Kreis),2020-03-18T10:00:00+01:00,1584522000000,89,0,0,7.992631,51.95119,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Wesel (Kreis),2020-03-18T10:00:00+01:00,1584522000000,116,0,0,6.625631,51.664636,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Nordrhein-Westfalen,Wuppertal,2020-03-18T10:00:00+01:00,1584522000000,31,0,0,7.143049,51.265292,"Ministerium für Arbeit, Gesundheit und Soziales NRW",https://www.mags.nrw/coronavirus-fallzahlen-nrw,regio
+Niedersachsen,Ammerland (Kreis),2020-03-18T16:00:00+01:00,1584543600000,12,0,0,8.013506,53.191156,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Aurich (Kreis),2020-03-18T16:00:00+01:00,1584543600000,14,0,0,7.484558,53.472037,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Celle (Kreis),2020-03-18T16:00:00+01:00,1584543600000,20,0,0,10.067616,52.616251,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Cloppenburg (Kreis),2020-03-18T16:00:00+01:00,1584543600000,2,0,0,8.050926,52.849613,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Cuxhaven (Kreis),2020-03-18T16:00:00+01:00,1584543600000,12,0,0,8.693474,53.859527,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Diepholz (Kreis),2020-03-18T16:00:00+01:00,1584543600000,30,0,0,8.368818,52.606262,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Emsland (Kreis),2020-03-18T16:00:00+01:00,1584543600000,30,0,0,7.396108,52.742567,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Friesland (Kreis),2020-03-18T16:00:00+01:00,1584543600000,3,0,0,7.902233,53.788351,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Gifhorn (Kreis),2020-03-18T16:00:00+01:00,1584543600000,22,0,0,10.54821,52.478198,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Goslar (Kreis),2020-03-18T16:00:00+01:00,1584543600000,10,0,0,10.428213,51.914082,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Göttingen (Kreis),2020-03-18T16:00:00+01:00,1584543600000,17,0,0,9.93664,51.543046,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Grafschaft Bentheim (Kreis),2020-03-18T16:00:00+01:00,1584543600000,11,0,0,6.913747,52.542401,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Hameln-Pyrmont (Kreis),2020-03-18T16:00:00+01:00,1584543600000,10,0,0,9.371778,52.099916,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Harburg (Kreis),2020-03-18T16:00:00+01:00,1584543600000,27,0,0,9.897592,53.452194,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Heidekreis (Kreis),2020-03-18T16:00:00+01:00,1584543600000,1,0,0,9.846589,53.044236,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Helmstedt (Kreis),2020-03-18T16:00:00+01:00,1584543600000,5,0,0,11.006095,52.229401,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Hildesheim (Kreis),2020-03-18T16:00:00+01:00,1584543600000,28,0,0,9.94949,52.152573,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Holzminden (Kreis),2020-03-18T16:00:00+01:00,1584543600000,12,0,0,9.457754,51.827989,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Leer (Kreis),2020-03-18T16:00:00+01:00,1584543600000,3,0,0,7.466798,53.236557,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Lüchow-Dannenberg (Kreis),2020-03-18T16:00:00+01:00,1584543600000,0,0,0,11.116476,53.02493,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Lüneburg (Kreis),2020-03-18T16:00:00+01:00,1584543600000,21,0,0,10.414613,53.250306,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Nienburg/Weser (Kreis),2020-03-18T16:00:00+01:00,1584543600000,6,0,0,9.214476,52.640323,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Northeim (Kreis),2020-03-18T16:00:00+01:00,1584543600000,6,0,0,9.998653,51.705657,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Oldenburg (Kreis),2020-03-18T16:00:00+01:00,1584543600000,9,0,0,8.386652,52.9961022,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Osnabrück (Kreis),2020-03-18T16:00:00+01:00,1584543600000,45,0,0,7.956597,52.4387262,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Osterholz (Kreis),2020-03-18T16:00:00+01:00,1584543600000,20,0,0,8.86167,53.26602,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Peine (Kreis),2020-03-18T16:00:00+01:00,1584543600000,8,0,0,10.240628,52.319699,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Rotenburg/Wümme (Kreis),2020-03-18T16:00:00+01:00,1584543600000,16,0,0,9.412534,53.11113,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Schaumburg (Kreis),2020-03-18T16:00:00+01:00,1584543600000,12,0,0,9.202721,52.304398,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Stade (Kreis),2020-03-18T16:00:00+01:00,1584543600000,29,0,0,9.475568,53.59295,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Uelzen (Kreis),2020-03-18T16:00:00+01:00,1584543600000,3,0,0,10.557401,52.963984,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Vechta (Kreis),2020-03-18T16:00:00+01:00,1584543600000,17,0,0,8.281056,52.729985,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Verden (Kreis),2020-03-18T16:00:00+01:00,1584543600000,18,0,0,9.250542,52.919263,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Wesermarsch (Kreis),2020-03-18T16:00:00+01:00,1584543600000,0,0,0,8.148634,53.721442,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Wittmund (Kreis),2020-03-18T16:00:00+01:00,1584543600000,3,0,0,7.776822,53.575725,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Wolfenbüttel (Kreis),2020-03-18T16:00:00+01:00,1584543600000,1,0,0,10.550799,52.163186,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Hannover (Region),2020-03-18T16:00:00+01:00,1584543600000,155,1,0,9.787455,52.379952,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Braunschweig,2020-03-18T16:00:00+01:00,1584543600000,12,0,0,10.531827,52.269203,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Delmenhorst,2020-03-18T16:00:00+01:00,1584543600000,6,0,0,8.648799,53.046269,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Emden,2020-03-18T16:00:00+01:00,1584543600000,4,0,0,7.206439,53.362663,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Oldenburg,2020-03-18T16:00:00+01:00,1584543600000,18,0,0,8.210671,53.15846,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Osnabrück,2020-03-18T16:00:00+01:00,1584543600000,50,0,0,8.047347,52.274158,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Salzgitter,2020-03-18T16:00:00+01:00,1584543600000,3,0,0,10.411769,52.157833,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Wilhelmshaven,2020-03-18T16:00:00+01:00,1584543600000,5,0,0,8.099767,53.536564,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Niedersachsen,Wolfsburg,2020-03-18T16:00:00+01:00,1584543600000,4,0,0,10.759152,52.423458,Niedersächsisches Gesundheitsministerium,https://www.niedersachsen.de/coronavirus,regio
+Thüringen,Altenburger Land (Kreis),2020-03-18T12:00:00+01:00,1584529200000,5,0,0,12.395581,50.964731,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Eichsfeld (Kreis),2020-03-18T12:00:00+01:00,1584529200000,3,0,0,10.228087,51.351092,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Eisenach,2020-03-18T12:00:00+01:00,1584529200000,2,0,0,10.309038,50.987034,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Erfurt,2020-03-18T12:00:00+01:00,1584529200000,18,1,0,11.026063,50.982915,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Gera,2020-03-18T12:00:00+01:00,1584529200000,2,0,0,12.08387,50.876279,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Gotha (Kreis),2020-03-18T12:00:00+01:00,1584529200000,1,0,0,10.699521,50.944469,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Greiz (Kreis),2020-03-18T12:00:00+01:00,1584529200000,16,0,0,12.203654,50.65627,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Hildburghausen (Kreis),2020-03-18T12:00:00+01:00,1584529200000,0,0,0,10.732158,50.427784,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Ilm-Kreis,2020-03-18T12:00:00+01:00,1584529200000,2,0,0,10.961674,50.778331,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Jena,2020-03-18T12:00:00+01:00,1584529200000,23,0,0,11.580264,50.920271,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Kyffhäuserkreis,2020-03-18T12:00:00+01:00,1584529200000,8,0,0,10.910092,51.303398,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Nordhausen (Kreis),2020-03-18T12:00:00+01:00,1584529200000,2,0,0,10.800572,51.493134,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Saale-Holzland-Kreis,2020-03-18T12:00:00+01:00,1584529200000,4,0,0,11.776974,50.93231,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Saale-Orla-Kreis,2020-03-18T12:00:00+01:00,1584529200000,4,0,0,11.75604,50.58437,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Saalfeld-Rudolstadt (Kreis),2020-03-18T12:00:00+01:00,1584529200000,5,0,0,11.304345,50.64649,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Schmalkalden-Meiningen (Kreis),2020-03-18T12:00:00+01:00,1584529200000,3,0,0,10.404736,50.638884,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Sömmerda(Kreis),2020-03-18T12:00:00+01:00,1584529200000,0,0,0,11.125218,51.163614,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Sonneberg (Kreis),2020-03-18T12:00:00+01:00,1584529200000,0,0,0,11.182257,50.357941,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Suhl,2020-03-18T12:00:00+01:00,1584529200000,1,0,0,10.702077,50.607561,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Unstrut-Hainich-Kreis,2020-03-18T12:00:00+01:00,1584529200000,2,0,0,10.557553,51.188963,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Wartburgkreis,2020-03-18T12:00:00+01:00,1584529200000,5,0,0,10.205274,50.87215,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Weimar,2020-03-18T12:00:00+01:00,1584529200000,6,0,0,11.322062,50.985963,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio
+Thüringen,Weimarer Land (Kreis),2020-03-18T12:00:00+01:00,1584529200000,2,0,0,11.471128,51.028595,Gesundheitsministerium Thüringen,https://www.landesregierung-thueringen.de/corona-bulletin,regio

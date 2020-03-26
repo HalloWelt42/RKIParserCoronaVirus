@@ -1,0 +1,112 @@
+{
+    "Deutschland": [
+        {
+            "Bundesland": "Baden-Württemberg",
+            "Fälle": "1.609",
+            "Differnz zum Vortag": "+130",
+            "pro 100T\/Einw.": "14,5",
+            "Todesfälle": "2"
+        },
+        {
+            "Bundesland": "Bayern",
+            "Fälle": "1.243",
+            "Differnz zum Vortag": "+134",
+            "pro 100T\/Einw.": "9,5",
+            "Todesfälle": "4"
+        },
+        {
+            "Bundesland": "Berlin",
+            "Fälle": "391",
+            "Differnz zum Vortag": "+46",
+            "pro 100T\/Einw.": "10,4"
+        },
+        {
+            "Bundesland": "Brandenburg",
+            "Fälle": "92",
+            "Differnz zum Vortag": "+19",
+            "pro 100T\/Einw.": "3,7"
+        },
+        {
+            "Bundesland": "Bremen",
+            "Fälle": "69",
+            "Differnz zum Vortag": "+12",
+            "pro 100T\/Einw.": "10,1"
+        },
+        {
+            "Bundesland": "Hamburg",
+            "Fälle": "358",
+            "Differnz zum Vortag": "+48",
+            "pro 100T\/Einw.": "19,4"
+        },
+        {
+            "Bundesland": "Hessen",
+            "Fälle": "432",
+            "Differnz zum Vortag": "+59",
+            "pro 100T\/Einw.": "6,9"
+        },
+        {
+            "Bundesland": "Mecklenburg-Vorpommern",
+            "Fälle": "56",
+            "Differnz zum Vortag": "+11",
+            "pro 100T\/Einw.": "3,5"
+        },
+        {
+            "Bundesland": "Niedersachsen",
+            "Fälle": "478",
+            "Differnz zum Vortag": "+153",
+            "pro 100T\/Einw.": "6,0"
+        },
+        {
+            "Bundesland": "Nordrhein-Westfalen",
+            "Fälle": "2.372",
+            "Differnz zum Vortag": "+267",
+            "pro 100T\/Einw.": "13,2",
+            "Todesfälle": "6",
+            "Besonders betroffenes Gebiet": "Landkreis Heinsberg"
+        },
+        {
+            "Bundesland": "Rheinland-Pfalz",
+            "Fälle": "474",
+            "Differnz zum Vortag": "+32",
+            "pro 100T\/Einw.": "11,6"
+        },
+        {
+            "Bundesland": "Saarland",
+            "Fälle": "88",
+            "Differnz zum Vortag": "+13",
+            "pro 100T\/Einw.": "8,9"
+        },
+        {
+            "Bundesland": "Sachsen",
+            "Fälle": "198",
+            "Differnz zum Vortag": "+16",
+            "pro 100T\/Einw.": "4,9"
+        },
+        {
+            "Bundesland": "Sachsen-Anhalt",
+            "Fälle": "105",
+            "Differnz zum Vortag": "+47",
+            "pro 100T\/Einw.": "4,8"
+        },
+        {
+            "Bundesland": "Schleswig-Holstein",
+            "Fälle": "159",
+            "Differnz zum Vortag": "+32",
+            "pro 100T\/Einw.": "5,5"
+        },
+        {
+            "Bundesland": "Thüringen",
+            "Fälle": "74",
+            "Differnz zum Vortag": "+23",
+            "pro 100T\/Einw.": "3,5"
+        },
+        {
+            "Bundesland": "Gesamt",
+            "Fälle": "8.198",
+            "Differnz zum Vortag": "+1.042",
+            "pro 100T\/Einw.": "9,9",
+            "Todesfälle": "12"
+        }
+    ],
+    "timestamp": 1584571982
+}
