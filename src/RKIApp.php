@@ -39,7 +39,7 @@ class RKIApp
               ->set_differenz($node->childNodes->item(2)->textContent)
               ->set_pro_hundert($node->childNodes->item(3)->textContent)
               ->set_tot($node->childNodes->item(4)->textContent)
-              ->set_hotspot($node->childNodes->item(5)->textContent)
+//              ->set_hotspot($node->childNodes->item(5)->textContent)
       );
     }
 
